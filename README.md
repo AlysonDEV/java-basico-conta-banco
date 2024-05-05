@@ -6,9 +6,12 @@ Projeto criado para exercícios de sintaxe na linguagem java.
 ## Objetivos
 
 - [x] Criar um projeto com o nome ContaBanco
-- [ ] Receber informações via terminal
+- [x] Receber informações via terminal
+- [x] Exibir as informações recebedas em uma mensagem de retorno no terminal
 
+## Desafios
 
+Trabalhando com importações de pacotes e entendo que a própria linguagem ou frameworks podem trazer soluções que deixem o nosso projeto mais produtivo. Nesse caso trabalhei com a bibliotéca Scanner que fazer a integração do que é digitado no teclado utilizando o NextLine para pegar a próxima linha digitada, o NextInt para converter a linha digitada em numero inteiro, o NextDouble para converter a próximo linha digitada em um numero com "ponto flutuante" e também o Next para pegar um texto (e notei que o texto é de apenas uma única palavra).
 
 ## DESAFIO DIO - Trilha Java Básico
 www.dio.me
